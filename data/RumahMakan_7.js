@@ -1,0 +1,1 @@
+var json_RumahMakan_7 = {"type":"FeatureCollection","name":"RumahMakan_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Rumah":"Rumah makan"},"geometry":{"type":"Point","coordinates":[101.455443536385971,-0.396183557236609]}}]}

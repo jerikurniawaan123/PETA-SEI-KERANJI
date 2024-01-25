@@ -1,0 +1,1 @@
+var json_MasjidALMUTAQIN_9 = {"type":"FeatureCollection","name":"MasjidALMUTAQIN_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Masjid":"Masjid AL MUTAQIN"},"geometry":{"type":"MultiPoint","coordinates":[[101.45416342889888,-0.404671711967654]]}}]}

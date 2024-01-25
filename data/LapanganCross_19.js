@@ -1,0 +1,1 @@
+var json_LapanganCross_19 = {"type":"FeatureCollection","name":"LapanganCross_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Lapangan":"Lapangan Cross"},"geometry":{"type":"Point","coordinates":[101.456130207778088,-0.411455444209887]}}]}

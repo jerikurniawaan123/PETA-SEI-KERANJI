@@ -1,0 +1,1 @@
+var json_MasjidDARUNNAJAH_8 = {"type":"FeatureCollection","name":"MasjidDARUNNAJAH_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Masjid":"Masjid DARUNNAJAH"},"geometry":{"type":"MultiPoint","coordinates":[[101.446619821190993,-0.412119266635818]]}}]}

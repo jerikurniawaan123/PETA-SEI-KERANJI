@@ -1,0 +1,1 @@
+var json_Fotocopy_11 = {"type":"FeatureCollection","name":"Fotocopy_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Fotocopy":"Fotocopy Jeje"},"geometry":{"type":"Point","coordinates":[101.4430941869294,-0.412842943700475]}}]}

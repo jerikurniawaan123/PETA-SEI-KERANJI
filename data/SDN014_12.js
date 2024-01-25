@@ -1,0 +1,1 @@
+var json_SDN014_12 = {"type":"FeatureCollection","name":"SDN014_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","SD":"SDN 014"},"geometry":{"type":"MultiPoint","coordinates":[[101.454619158100385,-0.403999385588332]]}}]}

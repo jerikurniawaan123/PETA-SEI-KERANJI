@@ -1,0 +1,1 @@
+var json_KantorDesa_15 = {"type":"FeatureCollection","name":"KantorDesa_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Kantor":"Kantor Desa"},"geometry":{"type":"Point","coordinates":[101.455214900157387,-0.403534273803261]}}]}
